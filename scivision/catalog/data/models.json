@@ -274,7 +274,7 @@
       "tasks": [
         "classification"
       ],
-      "url": "https://github.com/nbarlowATI/flower_classification_model",
+      "url": "https://github.com/lucyOCg/flower_classification_model",
       "pkg_url": "git+https://github.com/lucyOCg/flower_classification_model.git@main",
       "format": "image",
       "pretrained": true,
